@@ -37,7 +37,7 @@ Ensure the following are installed in your environment:
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/your-username/repository-name.git
-   cd repository-name
+   cd gmx_md
    ```
 
 2. **Place the `.pdb` file in the project directory**.
@@ -46,12 +46,12 @@ Ensure the following are installed in your environment:
 
 4. **Make the script executable**:
    ```bash
-   chmod +x automate_gromacs.sh
+   chmod +x gmx.sh
    ```
 
 5. **Run the script**:
    ```bash
-   ./automate_gromacs.sh
+   ./gmx.sh
    ```
 
 6. **Expected Output**:
