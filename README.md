@@ -46,7 +46,7 @@ Ensure the following are installed in your environment:
 
 4. **Make the script executable**:
    ```bash
-   chmod +x gmx.sh
+   chmod a+x gmx.sh
    ```
 
 5. **Run the script**:
