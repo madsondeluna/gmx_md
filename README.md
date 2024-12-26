@@ -115,3 +115,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ---
 
 **Attention:** Ensure all required files are in the same directory before running the script to avoid unexpected errors. This project has been tested on Linux systems but can be adapted for other environments.
+
+<i>Thanks!</1>
